@@ -1,0 +1,13 @@
+.first_el {
+    background-color: black;
+    color:white
+}
+
+.second_el {
+    background-color:yellow;
+}
+
+.first_el, .second_el {
+    font-size:28px;
+    font-family:'Helvetica', 'Times New Roman', sans-serif;
+}
